@@ -173,6 +173,18 @@ Statix OS 4.2 EOL
 unofficial A11
 =====
 
+CrDroid 7.12
+-----
+* [Download](https://sourceforge.net/projects/sirrgb-roms/files/TP1803/crDroid/crDroidAndroid-11.0-20211126-TP1803-v7.12.zip/download)
+* built by me
+
+Project Kasumi 1.1
+-----
+* [Telegram chat](https://t.me/+hvji0wWvr9YyN2Ri)
+* [Telegram changelog](https://t.me/c/1680082394/1816)
+* [Download](https://sourceforge.net/projects/sirrgb-roms/files/TP1803/Project_Kasumi/Kasumi-1.1-PoPiPa-20220403-UNOFFICIAL-TP1803.zip/download)
+* built by me
+
 AICP 16.1 EOL
 -----
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/TP1803/AICP/)
@@ -194,11 +206,6 @@ Lineage OS 18.1 WIP EOL
 * [Download](https://sourceforge.net/projects/ephedraceae/files/TP1803/lineage-18.1/lineage-18.1-20210913-UNOFFICIAL-TP1803.zip/download)
 * thanks to @edi194
 
-CrDroid 7.12
------
-* [Download](https://sourceforge.net/projects/sirrgb-roms/files/TP1803/crDroid/crDroidAndroid-11.0-20211126-TP1803-v7.12.zip/download)
-* built by me
-
 CrDroid 7.10 WIP EOL
 -----
 * [Telegram download](https://t.me/cringeroms/6)
@@ -207,13 +214,6 @@ CrDroid 7.10 WIP EOL
 Project Sakura 5.2 EOL
 -----
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/TP1803/Project_Sakura/ProjectSakura-5.2-VANILLA-20211125-2000-TP1803-UNOFFICIAL.zip/download)
-* built by me
-
-Project Kasumi 1.0 Beta
------
-* [Telegram chat](https://t.me/+hvji0wWvr9YyN2Ri)
-* [Telegram changelog](https://t.me/c/1680082394/6)
-* [Download](https://sourceforge.net/projects/sirrgb-roms/files/TP1803/Project_Kasumi/Kasumi-1.0-PoPiPa-20211202-UNOFFICIAL-Beta-TP1803.zip/download)
 * built by me
 
 Stellar OS v1.0 Aquarix EOL
