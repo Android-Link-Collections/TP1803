@@ -27,6 +27,14 @@ Droid-ng
 * [Mirror](https://github.com/davigamer987/releases/releases/download/droid-ng-march5/droid-ng-2.0-Dragonfruit-BETA-20220330-UNOFFICIAL-TP1803.zip)
 * thanks to @davigamer987
 
+Evolution X Snow
+-----
+(Resized system partition needed)
+* [Telegram changelog](https://t.me/cringeroms/451)
+* [Download](https://drive.realmeme.ml/0:/evolution_TP1803-ota-sp2a.220305.012-03131425-unofficial-unsigned.zip)
+* [Mirror](https://github.com/davigamer987/releases/releases/download/evox-march5-gapps/evolution_TP1803-ota-sp2a.220305.012-03131425-unofficial-unsigned.zip)
+* thanks to @davigamer987
+
 Lineage OS 19.1 gapps
 -----
 * [Download](https://updater.oddsolutions.us/#/devices/TP1803/builds)
@@ -60,14 +68,6 @@ CrDroid 8.0
 -----
 * [Download](https://github.com/davigamer987/releases/releases/download/Crdroid-a12/crDroidAndroid-12.0-20211201-TP1803-v8.0.zip)
 * [Telegram download](https://t.me/cringeroms/56)
-* thanks to @davigamer987
-
-Evolution X Snow
------
-(Resized system partition needed)
-* [Telegram changelog](https://t.me/cringeroms/282)
-* [Download](http://drive.realmeme.ml/0:/evolution_TP1803-ota-sq1d.220105.007-02020015-unofficial-unsigned.zip)
-* [Mirror](https://github.com/davigamer987/releases/releases/download/Evox-jan5/evolution_TP1803-ota-sq1d.220105.007-02020015-unofficial-unsigned.zip)
 * thanks to @davigamer987
 
 HentaiOS/HelluvaOS
