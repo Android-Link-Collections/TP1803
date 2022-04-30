@@ -20,6 +20,13 @@ AOSP Extended 9.1
 * [Mirror](http://drive.realmeme.ml/0:/AospExtended-v9.1-TP1803-UNOFFICIAL-20220326-0303.zip)
 * thanks to @davigamer987
 
+DotOS 6.0
+-----
+* [Telegram changelog](https://t.me/cringeroms/527)
+* [Download Vanilla](https://github.com/davigamer987/releases/releases/download/dotos-april5/dotOS-v6.0-TP1803-UNOFFICIAL-Vanilla-20220408-2341.zip)
+* [Download Gapps](https://github.com/davigamer987/releases/releases/download/dotos-april5/dotOS-v6.0-TP1803-UNOFFICIAL-GAPPS-20220409-0020.zip)
+* thanks to @davigamer987
+
 Droid-ng
 -----
 * [Telegram changelog](https://t.me/cringeroms/471)
