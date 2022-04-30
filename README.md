@@ -73,6 +73,11 @@ Project Streak gapps
 * [Download](https://github.com/davigamer987/releases/releases/download/streak-april5/Streak-12.1-UNOFFICIAL-GAPPS-TP1803-20220413-0109.zip)
 * thanks to @davigamer987
 
+Superiour OS 12.1
+-----
+* [Telegram changelog](https://t.me/cringeroms/570)
+* [Download](https://github.com/davigamer987/releases/releases/download/supos-april5/superiorOS-TwelveL-TP1803-UNOFFICIAL-20220413-2338.zip)
+* thanks to @davigamer987
 
 unofficial A12
 =====
