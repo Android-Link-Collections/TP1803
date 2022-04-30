@@ -27,7 +27,7 @@ Droid-ng
 * [Mirror](https://github.com/davigamer987/releases/releases/download/droid-ng-march5/droid-ng-2.0-Dragonfruit-BETA-20220330-UNOFFICIAL-TP1803.zip)
 * thanks to @davigamer987
 
-Lineage OS 19.1
+Lineage OS 19.1 gapps
 -----
 * [Download](https://updater.oddsolutions.us/#/devices/TP1803/builds)
 * thanks to @Npjohnson
