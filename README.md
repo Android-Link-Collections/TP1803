@@ -103,6 +103,13 @@ Voltage OS 1.1
 * [Mirror](https://cloud.invictus.ml/0:/voltage-1.1-TP1803-20211204-1415-UNOFFICIAL.zip)
 * thanks to @davigamer987
 
+Xdroid 12
+-----
+* [Telegram changelog](https://t.me/cringeroms/419)
+* [Download](http://drive.realmeme.ml/0:/INA.XD.12.0.r2-301103-TP1803.OBT.zip)
+* [Mirror](https://github.com/davigamer987/releases/releases/download/Xdroid/INA.XD.12.0.r2-301103-TP1803.OBT.zip)
+* thanks to @davigamer987
+
 
 official A11
 =====
