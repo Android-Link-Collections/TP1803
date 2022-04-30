@@ -1,6 +1,15 @@
 Android
 ======
 
+official A12.1
+=====
+
+Lineage OS 19.1
+----
+* [Download] (https://download.lineageos.org/TP1803)
+* thanks to @ArianK16a and @npjohnson
+
+
 unofficial A12.1
 =====
 
