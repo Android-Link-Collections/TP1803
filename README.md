@@ -34,6 +34,13 @@ Droid-ng
 * [Mirror](https://github.com/davigamer987/releases/releases/download/droid-ng-march5/droid-ng-2.0-Dragonfruit-BETA-20220330-UNOFFICIAL-TP1803.zip)
 * thanks to @davigamer987
 
+ElytraOS
+-----
+* [Telegram changelog](https://t.me/cringeroms/550)
+* [Download Vanilla](https://github.com/davigamer987/releases/releases/download/elytra-march5/elytra-ENDSTONE-TP1803-20220410-1610-UNOFFICIAL-VANILLA.zip)
+* [Download Gapps](https://github.com/davigamer987/releases/releases/download/elytra-march5/elytra-ENDSTONE-TP1803-20220410-1540-UNOFFICIAL-GAPPS.zip)
+* thanks to @davigamer987
+
 Evolution X Snow 6.2
 -----
 (Resized system partition needed)
