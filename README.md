@@ -61,6 +61,12 @@ Pixel Experience 12.1
 * [Download Plus](https://github.com/davigamer987/releases/releases/download/pe-march5/PixelExperience_Plus_TP1803-12.1-20220405-0024-UNOFFICIAL.zip)
 * thanks to @davigamer987
 
+Project Streak gapps
+-----
+* [Telegram changelog](https://t.me/cringeroms/559)
+* [Download](https://github.com/davigamer987/releases/releases/download/streak-april5/Streak-12.1-UNOFFICIAL-GAPPS-TP1803-20220413-0109.zip)
+* thanks to @davigamer987
+
 
 unofficial A12
 =====
