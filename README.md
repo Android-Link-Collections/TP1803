@@ -27,7 +27,7 @@ Droid-ng
 * [Mirror](https://github.com/davigamer987/releases/releases/download/droid-ng-march5/droid-ng-2.0-Dragonfruit-BETA-20220330-UNOFFICIAL-TP1803.zip)
 * thanks to @davigamer987
 
-Evolution X Snow
+Evolution X Snow 6.2
 -----
 (Resized system partition needed)
 * [Telegram changelog](https://t.me/cringeroms/451)
@@ -39,6 +39,13 @@ Lineage OS 19.1 gapps
 -----
 * [Download](https://updater.oddsolutions.us/#/devices/TP1803/builds)
 * thanks to @Npjohnson
+
+Pixel Experience 12.1
+-----
+* [Telegram changelog](https://t.me/cringeroms/526)
+* [Download Standard](https://github.com/davigamer987/releases/releases/download/pe-march5/PixelExperience_TP1803-12.1-20220404-0108-UNOFFICIAL.zip)
+* [Download Plus](https://github.com/davigamer987/releases/releases/download/pe-march5/PixelExperience_Plus_TP1803-12.1-20220405-0024-UNOFFICIAL.zip)
+* thanks to @davigamer987
 
 
 unofficial A12
