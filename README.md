@@ -70,6 +70,13 @@ Evolution X Snow
 * [Mirror](https://github.com/davigamer987/releases/releases/download/Evox-jan5/evolution_TP1803-ota-sq1d.220105.007-02020015-unofficial-unsigned.zip)
 * thanks to @davigamer987
 
+HentaiOS/HelluvaOS
+-----
+* [Telegram changelog](https://t.me/cringeroms/391)
+* [Download](http://drive.realmeme.ml/0:/helluva-os-TP1803.zip)
+* [Mirror](https://github.com/davigamer987/releases/releases/download/HelluvaOS-gapps-fixed-Feb5/helluva-os-TP1803.zip)
+* thanks to @davigamer987
+
 Octavi OS 3.1 gapps
 -----
 * [Telegram changelog](https://t.me/cringeroms/16)
