@@ -61,6 +61,12 @@ Pixel Experience 12.1
 * [Download Plus](https://github.com/davigamer987/releases/releases/download/pe-march5/PixelExperience_Plus_TP1803-12.1-20220405-0024-UNOFFICIAL.zip)
 * thanks to @davigamer987
 
+Project Arcana gapps
+-----
+* [Telegram changelog](https://t.me/cringeroms/569)
+* [Download](https://github.com/davigamer987/releases/releases/download/arcana-april5-gapps/ProjectArcana-FAERIE-6.0-TP1803-COMMUNITY-PIXEL-20220414-1905.zip)
+* thanks to @davigamer987
+
 Project Streak gapps
 -----
 * [Telegram changelog](https://t.me/cringeroms/559)
