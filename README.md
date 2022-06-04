@@ -27,6 +27,13 @@ AOSP Extended 9.1
 * [Mirror](http://drive.realmeme.ml/0:/AospExtended-v9.1-TP1803-UNOFFICIAL-20220326-0303.zip)
 * thanks to @davigamer987
 
+AOSPK
+-----
+* [Telegram changelog](https://t.me/cringeroms/335)
+* [Download](https://github.com/davigamer987/releases/releases/download/aospk-vanilla-jan5/Kraken-12-Vanilla-20220203-2153-TP1803-UNOFFICIAL.zip)
+* [Mirror](http://drive.realmeme.ml/0:/Kraken-12-Vanilla-20220203-2153-TP1803-UNOFFICIAL.zip)
+* thanks to @davigamer987
+
 DotOS 6.0
 -----
 * [Telegram changelog](https://t.me/cringeroms/527)
