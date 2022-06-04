@@ -13,6 +13,13 @@ Lineage OS 19.1
 unofficial A12.1
 =====
 
+AICP 17.1
+-----
+* [Telegram changelog](https://t.me/cringeroms/579)
+* [Download](https://github.com/davigamer987/releases/releases/download/aicp-april5-vanilla/aicp_TP1803_s-17.1-UNOFFICIAL-20220415.zip)
+* [Mirror](https://drive.realmeme.ml/0:/aicp_TP1803_s-17.1-UNOFFICIAL-20220415.zip)
+* thanks to @davigamer987
+
 AOSP Extended 9.1
 -----
 * [Telegram changelog](https://t.me/cringeroms/460)
