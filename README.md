@@ -6,7 +6,7 @@ official A12.1
 
 Lineage OS 19.1
 ----
-* [Download] (https://download.lineageos.org/TP1803)
+* [Download](https://download.lineageos.org/TP1803)
 * thanks to @ArianK16a and @npjohnson
 
 Lineage OS 19.1 MicroG
